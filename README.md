@@ -1,1 +1,3 @@
 # Noti
+
+Simple messaging application
